@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597486608807",
+    "firebase_url": "https://soltattendance.firebaseio.com",
+    "project_id": "soltattendance",
+    "storage_bucket": "soltattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597486608807:android:b029f733c68be720",
+        "android_client_info": {
+          "package_name": "com.vikram.sourceoflifeattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597486608807-8chpvckil7qiugffr8rmq5t7mk19rmh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQWMuXIBCuB6bEylx-LvTlUjapV3ClRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597486608807-8chpvckil7qiugffr8rmq5t7mk19rmh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
